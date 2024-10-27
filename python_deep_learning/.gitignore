@@ -1,4 +1,8 @@
 cats_vs_dogs_small/
 annotations/
 images/
+aclImdb/
+spa-eng/
 *.keras
+*.csv
+*.txt
