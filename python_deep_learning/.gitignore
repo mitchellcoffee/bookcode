@@ -6,3 +6,5 @@ spa-eng/
 *.keras
 *.csv
 *.txt
+*.png
+aclImdb_bk/
